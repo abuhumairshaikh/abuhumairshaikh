@@ -12,14 +12,16 @@ Cloud & DevOps Engineer | AWS Infrastructure | CI/CD | ECS | Docker | Linux
 
 # 🚀 About Me
 
-🔹 Passionate Cloud & DevOps Engineer focused on building scalable and production-ready infrastructure on AWS.
+- Cloud & DevOps Engineer with 1+ years of hands-on experience working on AWS infrastructure, CI/CD automation, containerized deployments, and production-grade cloud environments.
 
-🔹 Experienced in CI/CD automation, ECS deployments, Docker containerization, monitoring, cloud networking, and infrastructure management.
+- Currently working at SkyonX Technologies, focusing on ECS-based deployments, Docker containerization, infrastructure automation, monitoring, and highly available architectures.
 
-🔹 Strong understanding of AWS core services, DevOps workflows, Linux systems, and production-grade deployment practices.
+- Experienced in building and managing CI/CD pipelines using AWS CodePipeline, CodeBuild, and GitHub Actions to automate application delivery workflows.
 
-🔹 Interested in designing secure, automated, scalable, and highly available cloud environments.
+- Skilled in Infrastructure as Code (IaC), Linux administration, cloud networking, reverse proxy configuration, and troubleshooting real-world deployment issues.
 
+- Passionate about automation, scalability, cost optimization, high availability, and designing reliable cloud-native systems.
+  
 ---
 
 # ☁️ AWS Cloud Expertise
